@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>tensorflow/.gitignore at master · tensorflow/tensorflow</title>
+  <title>tensorflow/README.md at master · tensorflow/tensorflow</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars2.githubusercontent.com/u/15658638?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="tensorflow/tensorflow" property="og:title" /><meta content="https://github.com/tensorflow/tensorflow" property="og:url" /><meta content="tensorflow - Computation using data flow graphs for scalable machine learning" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTg1ODgyMzIxOmU5NzlkOGQwNzRjYTZmODJlZWY1ZTdlYmRhMDdlYmM0MmFhYjM1NDI0YmE0ZWJmMjM2NDY1YzhjZDQ3OTNkZDM=--9500d2806153d37f7670e54bee5f5cfb1eda5a6a">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTg1ODgyMzIxOjNiZDg0M2ZlYmQ3NGI3MDUxNmZmYWU2ZDhlYTBiMGM3OTE4ZGNhMTNiZDRkYTJmOGU4NmQ1ZmQ1OGMwNjIxYTI=--477f22cf772e35c75ae5e6ace32386ec56c05844">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D8DD:25ED5:1ACF208:2867008:5973F569" data-pjax-transient>
+  <meta name="request-id" content="D929:25ED4:FAB93E:17A30A5:5973F629" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D8DD:25ED5:1ACF208:2867008:5973F569" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="8408621" name="octolytics-actor-id" /><meta content="brucenielson" name="octolytics-actor-login" /><meta content="cb6b8636af31558f8203ca7d26a4fe6274e0db439a21fb5c2b847f7b00b8b230" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D929:25ED4:FAB93E:17A30A5:5973F629" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="8408621" name="octolytics-actor-id" /><meta content="brucenielson" name="octolytics-actor-login" /><meta content="cb6b8636af31558f8203ca7d26a4fe6274e0db439a21fb5c2b847f7b00b8b230" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="brucenielson">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MTNiODc0MGUwY2U3ZjE1MGI3OTg4ZGFkN2U5ZDAyYTk1MDA4NTVmOWY3YzQ5ZmU5YWRmMWI4M2JkOTM1ZTQ1YXx7InJlbW90ZV9hZGRyZXNzIjoiMTc0LjUyLjEzOC45OSIsInJlcXVlc3RfaWQiOiJEOEREOjI1RUQ1OjFBQ0YyMDg6Mjg2NzAwODo1OTczRjU2OSIsInRpbWVzdGFtcCI6MTUwMDc3MTY4OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZDUxOTE2ZDIyOGQzMDljMzRkNDhhMDcyNzQ5N2MxYzNlNWY5ZTI3Nzk5ZDA0NTkyOGMwMTY2YjEyY2ViYmRiY3x7InJlbW90ZV9hZGRyZXNzIjoiMTc0LjUyLjEzOC45OSIsInJlcXVlc3RfaWQiOiJEOTI5OjI1RUQ0OkZBQjkzRToxN0EzMEE1OjU5NzNGNjI5IiwidGltZXN0YW1wIjoxNTAwNzcxODg0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
 
   <meta name="html-safe-nonce" content="5ab39d56e26c00935dadd6ced8bb2d6b8afa3294">
@@ -79,7 +79,7 @@
   <meta content="15658638" name="octolytics-dimension-user_id" /><meta content="tensorflow" name="octolytics-dimension-user_login" /><meta content="45717250" name="octolytics-dimension-repository_id" /><meta content="tensorflow/tensorflow" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="45717250" name="octolytics-dimension-repository_network_root_id" /><meta content="tensorflow/tensorflow" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/.gitignore" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -125,7 +125,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/search" class="js-site-search-form" data-scoped-search-url="/tensorflow/tensorflow/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/.gitignore" class="header-search-scope no-underline">This repository</a>
+        <a href="/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/README.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -252,7 +252,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1YJ6DAF+vlX4wZOgfxjcD4m/AID1Ak3jPdSnNFwkQhOPjw+Af93zkI0A6tfbf9rJcu7y2XxGP0iIvCGk23LGpw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uXIa2bhZ+FCMuTWekxte7qJducItDovrGZYMwVe2ufPjf29Vxvq1lfl4TOk3fFgoWQxLm6RK+UCs/opR0OA9Rw==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -262,7 +262,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AHkSU9MCl0R7u0VWG2PeDWCdiA/cotihXYCQ7pX1buladGffraHagQ56PCG/BNjLm8x6VlXmqgro6BZ+EqPqXQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CHOih/Oh4OiHwfUv6nSgyz3HNqK59yzj3jigy2e+A9NSftcLjQKtLfIAjFhOE6YNxpbE+zCzXkhrUCZb4OiHZw==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -298,7 +298,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GmJuk0RSHulg1evhtHTZ999WXIcAvkC+zqMe4nA7zR4ELefvSd7AS23ok6ySVoEObo6u1RIa31yKvSOWSEEYUA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="45717250" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oxasnJ7sbOBvDQoDZVQNtAZavGAkPodG95uNI+xP77W9WSXgk2CyQmIwck5DdlVNt4JOMjaaGKSzhbBX1DU6+w==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="45717250" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/tensorflow/tensorflow/subscription"
@@ -378,7 +378,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container on">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tMPTU59wvVzan5S7PI+dYLFL87WUEErx4KhNcpy6GcWSBXTNpe2OyRdynPUp1QCDRiObbHeW/8uuOSFidJmg0A==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xzOh19hdLKVrwm3ZNP3PkaGGCW0fSoiXXrNjihBLsljh9QZJ4sAfMKYvZZchp1JyVu5htPzMPa0QIg+a+GgLTQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -392,7 +392,7 @@
           64,342
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8lKmX2ISW5/yMPLJJenR6V6NpJqFIURVZc3ieayKwWNwYC1h4y4JJARtrhjHWIgx0PJhGUkdGoFTGhqGt5fx1w==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="W+O+20dTCv4sLESMyBukWVCkRURqqCY/5wYyY38MdEPZ0TXlxm9YRdpxGF0qqv2B3tuAx6aUeOvR0cqcZBFE9w==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -410,7 +410,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kn1XWBKqIlqGzQpMkGpRMNDMOLYkDWk0Klorp+8iVi0FB5JLCbUrF3Ki8gjoIeDbO87eePN+vBb38oDA6fgfpQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UCt8Bc3rR3w56t//kO8siT76Dpn7eO0yOE2eUFMg8UXHUbkW1vROMc2FJ7vopJ1i1fjoVywLOBDl5TU3Vfq4zQ==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -502,9 +502,9 @@
   <div class="repository-content">
 
     
-  <a href="/tensorflow/tensorflow/blob/eaa7a8ed93ccac595eab412dc7e021202c155f5d/tensorflow/examples/udacity/.gitignore" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/tensorflow/tensorflow/blob/eaa7a8ed93ccac595eab412dc7e021202c155f5d/tensorflow/examples/udacity/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:5f8a1721696da6c560fd4cc2cef47792 -->
+  <!-- blob contrib key: blob_contributors:v21:8ec226e4899e212d8a11735bfb64104d -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -546,7 +546,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/0.6.0/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/0.6.0/tensorflow/examples/udacity/README.md"
                data-name="0.6.0"
                data-skip-pjax="true"
                rel="nofollow">
@@ -556,7 +556,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/aselle-patch-1/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/aselle-patch-1/tensorflow/examples/udacity/README.md"
                data-name="aselle-patch-1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -566,7 +566,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/code-of-conduct/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/code-of-conduct/tensorflow/examples/udacity/README.md"
                data-name="code-of-conduct"
                data-skip-pjax="true"
                rel="nofollow">
@@ -576,7 +576,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/fix-doc-doc/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/fix-doc-doc/tensorflow/examples/udacity/README.md"
                data-name="fix-doc-doc"
                data-skip-pjax="true"
                rel="nofollow">
@@ -586,7 +586,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/frankchn-add-codeowners/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/frankchn-add-codeowners/tensorflow/examples/udacity/README.md"
                data-name="frankchn-add-codeowners"
                data-skip-pjax="true"
                rel="nofollow">
@@ -596,7 +596,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -606,7 +606,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r0.7/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r0.7/tensorflow/examples/udacity/README.md"
                data-name="r0.7"
                data-skip-pjax="true"
                rel="nofollow">
@@ -616,7 +616,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r0.8/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r0.8/tensorflow/examples/udacity/README.md"
                data-name="r0.8"
                data-skip-pjax="true"
                rel="nofollow">
@@ -626,7 +626,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r0.9/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r0.9/tensorflow/examples/udacity/README.md"
                data-name="r0.9"
                data-skip-pjax="true"
                rel="nofollow">
@@ -636,7 +636,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r0.10/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r0.10/tensorflow/examples/udacity/README.md"
                data-name="r0.10"
                data-skip-pjax="true"
                rel="nofollow">
@@ -646,7 +646,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r0.11/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r0.11/tensorflow/examples/udacity/README.md"
                data-name="r0.11"
                data-skip-pjax="true"
                rel="nofollow">
@@ -656,7 +656,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r0.12/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r0.12/tensorflow/examples/udacity/README.md"
                data-name="r0.12"
                data-skip-pjax="true"
                rel="nofollow">
@@ -666,7 +666,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r1.0/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r1.0/tensorflow/examples/udacity/README.md"
                data-name="r1.0"
                data-skip-pjax="true"
                rel="nofollow">
@@ -676,7 +676,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r1.1/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r1.1/tensorflow/examples/udacity/README.md"
                data-name="r1.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -686,7 +686,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r1.2/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r1.2/tensorflow/examples/udacity/README.md"
                data-name="r1.2"
                data-skip-pjax="true"
                rel="nofollow">
@@ -696,7 +696,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/r1.3/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/r1.3/tensorflow/examples/udacity/README.md"
                data-name="r1.3"
                data-skip-pjax="true"
                rel="nofollow">
@@ -706,7 +706,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/remove-tensorboard/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/remove-tensorboard/tensorflow/examples/udacity/README.md"
                data-name="remove-tensorboard"
                data-skip-pjax="true"
                rel="nofollow">
@@ -716,7 +716,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/revert-10411-branch_157903115/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/revert-10411-branch_157903115/tensorflow/examples/udacity/README.md"
                data-name="revert-10411-branch_157903115"
                data-skip-pjax="true"
                rel="nofollow">
@@ -726,7 +726,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/tfboyd-patch-1/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/tfboyd-patch-1/tensorflow/examples/udacity/README.md"
                data-name="tfboyd-patch-1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -736,7 +736,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/tensorflow/tensorflow/blob/vincentvanhoucke-patch-1/tensorflow/examples/udacity/.gitignore"
+               href="/tensorflow/tensorflow/blob/vincentvanhoucke-patch-1/tensorflow/examples/udacity/README.md"
                data-name="vincentvanhoucke-patch-1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -755,7 +755,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.3.0-rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.3.0-rc0/tensorflow/examples/udacity/README.md"
               data-name="v1.3.0-rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -765,7 +765,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.2.1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.2.1/tensorflow/examples/udacity/README.md"
               data-name="v1.2.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -775,7 +775,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.2.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.2.0/tensorflow/examples/udacity/README.md"
               data-name="v1.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -785,7 +785,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.2.0-rc2/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.2.0-rc2/tensorflow/examples/udacity/README.md"
               data-name="v1.2.0-rc2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -795,7 +795,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.2.0-rc1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.2.0-rc1/tensorflow/examples/udacity/README.md"
               data-name="v1.2.0-rc1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -805,7 +805,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.2.0-rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.2.0-rc0/tensorflow/examples/udacity/README.md"
               data-name="v1.2.0-rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -815,7 +815,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.1.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.1.0/tensorflow/examples/udacity/README.md"
               data-name="v1.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -825,7 +825,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.1.0-rc2/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.1.0-rc2/tensorflow/examples/udacity/README.md"
               data-name="v1.1.0-rc2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -835,7 +835,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.1.0-rc1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.1.0-rc1/tensorflow/examples/udacity/README.md"
               data-name="v1.1.0-rc1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -845,7 +845,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.1.0-rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.1.0-rc0/tensorflow/examples/udacity/README.md"
               data-name="v1.1.0-rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -855,7 +855,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.0.1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.0.1/tensorflow/examples/udacity/README.md"
               data-name="v1.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -865,7 +865,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.0.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.0.0/tensorflow/examples/udacity/README.md"
               data-name="v1.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -875,7 +875,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.0.0-rc2/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.0.0-rc2/tensorflow/examples/udacity/README.md"
               data-name="v1.0.0-rc2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -885,7 +885,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.0.0-rc1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.0.0-rc1/tensorflow/examples/udacity/README.md"
               data-name="v1.0.0-rc1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -895,7 +895,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.0.0-rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.0.0-rc0/tensorflow/examples/udacity/README.md"
               data-name="v1.0.0-rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -905,7 +905,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v1.0.0-alpha/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v1.0.0-alpha/tensorflow/examples/udacity/README.md"
               data-name="v1.0.0-alpha"
               data-skip-pjax="true"
               rel="nofollow">
@@ -915,7 +915,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.12.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.12.0/tensorflow/examples/udacity/README.md"
               data-name="v0.12.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -925,7 +925,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.11.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.11.0/tensorflow/examples/udacity/README.md"
               data-name="v0.11.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -935,7 +935,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.11.0rc2/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.11.0rc2/tensorflow/examples/udacity/README.md"
               data-name="v0.11.0rc2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -945,7 +945,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.11.0rc1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.11.0rc1/tensorflow/examples/udacity/README.md"
               data-name="v0.11.0rc1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -955,7 +955,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.11.0rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.11.0rc0/tensorflow/examples/udacity/README.md"
               data-name="v0.11.0rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -965,7 +965,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.10.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.10.0/tensorflow/examples/udacity/README.md"
               data-name="v0.10.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -975,7 +975,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.10.0rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.10.0rc0/tensorflow/examples/udacity/README.md"
               data-name="v0.10.0rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -985,7 +985,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.9.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.9.0/tensorflow/examples/udacity/README.md"
               data-name="v0.9.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -995,7 +995,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.9.0rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.9.0rc0/tensorflow/examples/udacity/README.md"
               data-name="v0.9.0rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1005,7 +1005,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.8.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.8.0/tensorflow/examples/udacity/README.md"
               data-name="v0.8.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1015,7 +1015,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.8.0rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.8.0rc0/tensorflow/examples/udacity/README.md"
               data-name="v0.8.0rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1025,7 +1025,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.7.1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.7.1/tensorflow/examples/udacity/README.md"
               data-name="v0.7.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1035,7 +1035,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.7.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.7.0/tensorflow/examples/udacity/README.md"
               data-name="v0.7.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1045,7 +1045,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/v0.6.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/v0.6.0/tensorflow/examples/udacity/README.md"
               data-name="v0.6.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1055,7 +1055,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/0.12.1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/0.12.1/tensorflow/examples/udacity/README.md"
               data-name="0.12.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1065,7 +1065,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/0.12.0-rc1/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/0.12.0-rc1/tensorflow/examples/udacity/README.md"
               data-name="0.12.0-rc1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1075,7 +1075,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/0.12.0-rc0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/0.12.0-rc0/tensorflow/examples/udacity/README.md"
               data-name="0.12.0-rc0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1085,7 +1085,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/0.6.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/0.6.0/tensorflow/examples/udacity/README.md"
               data-name="0.6.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1095,7 +1095,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/tensorflow/tensorflow/tree/0.5.0/tensorflow/examples/udacity/.gitignore"
+              href="/tensorflow/tensorflow/tree/0.5.0/tensorflow/examples/udacity/README.md"
               data-name="0.5.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -1123,7 +1123,7 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/tensorflow/tensorflow"><span>tensorflow</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/tensorflow/tensorflow/tree/master/tensorflow"><span>tensorflow</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/tensorflow/tensorflow/tree/master/tensorflow/examples"><span>examples</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity"><span>udacity</span></a></span><span class="separator">/</span><strong class="final-path">.gitignore</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/tensorflow/tensorflow"><span>tensorflow</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/tensorflow/tensorflow/tree/master/tensorflow"><span>tensorflow</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/tensorflow/tensorflow/tree/master/tensorflow/examples"><span>examples</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity"><span>udacity</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
     </div>
   </div>
 
@@ -1131,31 +1131,63 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/tensorflow/tensorflow/commit/7371d587b1eb2a34f8128e880b0f23fbcb3b1d6c" data-pjax>
-          7371d58
+        <a class="commit-tease-sha" href="/tensorflow/tensorflow/commit/e66d62349ce0d8262cff9a3cffdf253413317348" data-pjax>
+          e66d623
         </a>
-        <relative-time datetime="2016-05-26T17:16:14Z">May 26, 2016</relative-time>
+        <relative-time datetime="2017-02-21T23:01:51Z">Feb 21, 2017</relative-time>
       </span>
       <div>
-        <img alt="@juharris" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1594505?v=4&amp;s=40" width="20" />
-        <a href="/juharris" class="user-mention" rel="contributor">juharris</a>
-          <a href="/tensorflow/tensorflow/commit/7371d587b1eb2a34f8128e880b0f23fbcb3b1d6c" class="message" data-pjax="true" title="examples/udacity: Ignore data">examples/udacity: Ignore data</a>
+        <img alt="@vincentvanhoucke" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/15737127?v=3&amp;s=40" width="20" />
+        <a href="/vincentvanhoucke" class="user-mention" rel="contributor">vincentvanhoucke</a>
+          <a href="/tensorflow/tensorflow/commit/e66d62349ce0d8262cff9a3cffdf253413317348" class="message" data-pjax="true" title="Add latest Docker image based on TF 1.0.0">Add latest Docker image based on TF 1.0.0</a>
       </div>
 
     <div class="commit-tease-contributors">
       <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>1</strong>
-         contributor
+        <strong>7</strong>
+         contributors
       </button>
-      
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="vincentvanhoucke" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=vincentvanhoucke"><img alt="@vincentvanhoucke" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/15737127?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="vrv" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=vrv"><img alt="@vrv" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/463737?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="craigcitro" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=craigcitro"><img alt="@craigcitro" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/468559?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="martinwicke" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=martinwicke"><img alt="@martinwicke" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/577277?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="SamPutnam" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=SamPutnam"><img alt="@SamPutnam" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/17535229?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="Kjeanclaude" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=Kjeanclaude"><img alt="@Kjeanclaude" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/23453870?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="andrewharp" href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md?author=andrewharp"><img alt="@andrewharp" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/3376817?v=3&amp;s=40" width="20" /> </a>
+
+
     </div>
 
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
           <li class="facebox-user-list-item">
-            <img alt="@juharris" height="24" src="https://avatars1.githubusercontent.com/u/1594505?v=4&amp;s=48" width="24" />
-            <a href="/juharris">juharris</a>
+            <img alt="@vincentvanhoucke" height="24" src="https://avatars3.githubusercontent.com/u/15737127?v=3&amp;s=48" width="24" />
+            <a href="/vincentvanhoucke">vincentvanhoucke</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@vrv" height="24" src="https://avatars2.githubusercontent.com/u/463737?v=3&amp;s=48" width="24" />
+            <a href="/vrv">vrv</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@craigcitro" height="24" src="https://avatars2.githubusercontent.com/u/468559?v=3&amp;s=48" width="24" />
+            <a href="/craigcitro">craigcitro</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@martinwicke" height="24" src="https://avatars0.githubusercontent.com/u/577277?v=3&amp;s=48" width="24" />
+            <a href="/martinwicke">martinwicke</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@SamPutnam" height="24" src="https://avatars1.githubusercontent.com/u/17535229?v=3&amp;s=48" width="24" />
+            <a href="/SamPutnam">SamPutnam</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@Kjeanclaude" height="24" src="https://avatars0.githubusercontent.com/u/23453870?v=3&amp;s=48" width="24" />
+            <a href="/Kjeanclaude">Kjeanclaude</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@andrewharp" height="24" src="https://avatars0.githubusercontent.com/u/3376817?v=3&amp;s=48" width="24" />
+            <a href="/andrewharp">andrewharp</a>
           </li>
       </ul>
     </div>
@@ -1166,24 +1198,24 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/tensorflow/tensorflow/raw/master/tensorflow/examples/udacity/.gitignore" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/tensorflow/tensorflow/blame/master/tensorflow/examples/udacity/.gitignore" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/.gitignore" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/tensorflow/tensorflow/raw/master/tensorflow/examples/udacity/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/tensorflow/tensorflow/blame/master/tensorflow/examples/udacity/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/tensorflow/tensorflow/commits/master/tensorflow/examples/udacity/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/tensorflow/tensorflow?branch=master&amp;filepath=tensorflow%2Fexamples%2Fudacity%2F.gitignore"
+           href="x-github-client://openRepo/https://github.com/tensorflow/tensorflow?branch=master&amp;filepath=tensorflow%2Fexamples%2Fudacity%2FREADME.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/edit/master/tensorflow/examples/udacity/.gitignore" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="p0HMM4tSi2B6POE1qbmM1kXZcYmarpQ/syKGTkFFTvWXwKGgXYlaowpD4l+H0VFpyv6kZ3LlYYthijrnZPpE7w==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/edit/master/tensorflow/examples/udacity/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="L1fABuoms5L7TYcDmMWxLyDIqC5Uh0xcrcPwbd2Y58YStVkO77rb00ZHep/K34Q0Ud2NOl+i+xwhF8XyqAO0vw==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/delete/master/tensorflow/examples/udacity/.gitignore" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pyMFvXEAEvCHAhg9puWIj9iduEiElTHSjL51Itje9UoMYKQ87wdRyX6a9HYoUl9Ey2lgC4phHOO3n8Tz49MWrg==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/tensorflow/tensorflow/delete/master/tensorflow/examples/udacity/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VGggin2aXkcRBHeyUmz+/GfmaM46XWbHUV1YzGV7VCkoah9uHRKJyZ0YUXh6nbH+LE8DitTn0groXiSoZaqj/w==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1191,27 +1223,96 @@
 </form>  </div>
 
   <div class="file-info">
-      3 lines (2 sloc)
+      113 lines (69 sloc)
       <span class="file-info-divider"></span>
-    32 Bytes
+    4.56 KB
   </div>
 </div>
 
     
-
-  <div itemprop="text" class="blob-wrapper data type-text">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">notMNIST_large*</td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">notMNIST_small*</td>
-      </tr>
-</table>
-
-
+  <div id="readme" class="readme blob instapaper_body">
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-assignments-for-udacity-deep-learning-class-with-tensorflow" class="anchor" href="#assignments-for-udacity-deep-learning-class-with-tensorflow" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Assignments for Udacity Deep Learning class with TensorFlow</h1>
+<p>Course information can be found at <a href="https://www.udacity.com/course/deep-learning--ud730">https://www.udacity.com/course/deep-learning--ud730</a></p>
+<h2><a id="user-content-running-the-docker-container-from-the-google-cloud-repository" class="anchor" href="#running-the-docker-container-from-the-google-cloud-repository" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Running the Docker container from the Google Cloud repository</h2>
+<pre><code>docker run -p 8888:8888 --name tensorflow-udacity -it gcr.io/tensorflow/udacity-assignments:1.0.0
+</code></pre>
+<p>Note that if you ever exit the container, you can return to it using:</p>
+<pre><code>docker start -ai tensorflow-udacity
+</code></pre>
+<h2><a id="user-content-accessing-the-notebooks" class="anchor" href="#accessing-the-notebooks" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Accessing the Notebooks</h2>
+<p>On linux, go to: <a href="http://127.0.0.1:8888">http://127.0.0.1:8888</a></p>
+<p>On mac, find the virtual machine's IP using:</p>
+<pre><code>docker-machine ip default
+</code></pre>
+<p>Then go to: <a href="http://IP:8888">http://IP:8888</a> (likely <a href="http://192.168.99.100:8888">http://192.168.99.100:8888</a>)</p>
+<h2><a id="user-content-faq" class="anchor" href="#faq" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>FAQ</h2>
+<ul>
+<li><strong>I'm getting a MemoryError when loading data in the first notebook.</strong></li>
+</ul>
+<p>If you're using a Mac, Docker works by running a VM locally (which
+is controlled by <code>docker-machine</code>). It's quite likely that you'll
+need to bump up the amount of RAM allocated to the VM beyond the
+default (which is 1G).
+<a href="http://stackoverflow.com/questions/32834082/how-to-increase-docker-machine-memory-mac">This Stack Overflow question</a>
+has two good suggestions; we recommend using 8G.</p>
+<p>In addition, you may need to pass <code>--memory=8g</code> as an extra argument to
+<code>docker run</code>.</p>
+<ul>
+<li><strong>I want to create a new virtual machine instead of the default one.</strong></li>
+</ul>
+<p><code>docker-machine</code> is a tool to provision and manage docker hosts, it supports multiple platform (ex. aws, gce, azure, virtualbox, ...). To create a new virtual machine locally with built-in docker engine, you can use</p>
+<pre><code>docker-machine create -d virtualbox --virtualbox-memory 8196 tensorflow
+</code></pre>
+<p><code>-d</code> means the driver for the cloud platform, supported drivers listed <a href="https://docs.docker.com/machine/drivers/">here</a>. Here we use virtualbox to create a new virtual machine locally. <code>tensorflow</code> means the name of the virtual machine, feel free to use whatever you like. You can use</p>
+<pre><code>docker-machine ip tensorflow
+</code></pre>
+<p>to get the ip of the new virtual machine. To switch from default virtual machine to a new one (here we use tensorflow), type</p>
+<pre><code>eval $(docker-machine env tensorflow)
+</code></pre>
+<p>Note that <code>docker-machine env tensorflow</code> outputs some environment variables such like <code>DOCKER_HOST</code>. Then your docker client is now connected to the docker host in virtual machine <code>tensorflow</code></p>
+<ul>
+<li><strong>I'm getting a TLS connection error.</strong></li>
+</ul>
+<p>If you get an error about the TLS connection of your docker, run the command below to confirm the problem.</p>
+<pre><code>docker-machine ip tensorflow
+</code></pre>
+<p>Then if it is the case use the instructions on <a href="https://docs.docker.com/toolbox/faqs/troubleshoot/">this page</a> to solve the issue.</p>
+<ul>
+<li><strong>I'm getting the error - docker: Cannot connect to the Docker daemon. Is the docker daemon running on this host? - when I run 'docker run'.</strong></li>
+</ul>
+<p>This is a permissions issue, and a popular answer is provided for Linux and Max OSX <a href="http://stackoverflow.com/questions/21871479/docker-cant-connect-to-docker-daemon">here</a> on StackOverflow.</p>
+<h1><a id="user-content-notes-for-anyone-needing-to-build-their-own-containers-mostly-instructors" class="anchor" href="#notes-for-anyone-needing-to-build-their-own-containers-mostly-instructors" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Notes for anyone needing to build their own containers (mostly instructors)</h1>
+<h2><a id="user-content-building-a-local-docker-container" class="anchor" href="#building-a-local-docker-container" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Building a local Docker container</h2>
+<pre><code>cd tensorflow/examples/udacity
+docker build --pull -t $USER/assignments .
+</code></pre>
+<h2><a id="user-content-running-the-local-container" class="anchor" href="#running-the-local-container" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Running the local container</h2>
+<p>To run a disposable container:</p>
+<pre><code>docker run -p 8888:8888 -it --rm $USER/assignments
+</code></pre>
+<p>Note the above command will create an ephemeral container and all data stored in the container will be lost when the container stops.</p>
+<p>To avoid losing work between sessions in the container, it is recommended that you mount the <code>tensorflow/examples/udacity</code> directory into the container:</p>
+<pre><code>docker run -p 8888:8888 -v &lt;/path/to/tensorflow/examples/udacity&gt;:/notebooks -it --rm $USER/assignments
+</code></pre>
+<p>This will allow you to save work and have access to generated files on the host filesystem.</p>
+<h2><a id="user-content-pushing-a-google-cloud-release" class="anchor" href="#pushing-a-google-cloud-release" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Pushing a Google Cloud release</h2>
+<pre><code>V=1.0.0
+docker tag $USER/assignments gcr.io/tensorflow/udacity-assignments:$V
+gcloud docker push gcr.io/tensorflow/udacity-assignments
+docker tag $USER/assignments gcr.io/tensorflow/udacity-assignments:latest
+gcloud docker push gcr.io/tensorflow/udacity-assignments
+</code></pre>
+<h2><a id="user-content-history" class="anchor" href="#history" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>History</h2>
+<ul>
+<li>0.1.0: Initial release.</li>
+<li>0.2.0: Many fixes, including lower memory footprint and support for Python 3.</li>
+<li>0.3.0: Use 0.7.1 release.</li>
+<li>0.4.0: Move notMMNIST data for Google Cloud.</li>
+<li>0.5.0: Actually use 0.7.1 release.</li>
+<li>0.6.0: Update to TF 0.10.0, add libjpeg (for Pillow).</li>
+<li>1.0.0: Update to TF 1.0.0 release.</li>
+</ul>
+</article>
   </div>
 
   </div>
@@ -1249,7 +1350,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.28012s from unicorn-2752859681-rbtl0">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.22575s from unicorn-2752859681-sxx6x">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
