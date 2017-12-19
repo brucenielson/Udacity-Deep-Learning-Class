@@ -1,2 +1,1 @@
-%Anaconda3%\Scripts\activate root
-
+C:\Users\BNielson\Anaconda35\Scripts\activate root

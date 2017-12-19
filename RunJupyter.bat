@@ -1,2 +1,2 @@
-%Anaconda3%\Scripts\jupyter notebook
+C:\Users\BNielson\Anaconda35\Scripts\jupyter-notebook
 
